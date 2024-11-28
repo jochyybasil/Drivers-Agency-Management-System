@@ -1,0 +1,14 @@
+# PostgreSQL database interaction
+psycopg2>=2.9,<3.0  # PostgreSQL adapter for Python
+
+# For managing environment variables
+python-dotenv>=0.20.0,<1.0.0  # To load environment variables from a .env file
+
+# For managing date and time 
+python-dateutil>=2.8,<3.0  # For working with dates and times
+
+# For serving static HTML files locally (using Python's built-in server)
+http.server>=0.0.0  # Python's built-in HTTP server (you can use it for testing)
+
+# For testing unit tests for Python code
+pytest>=7.0,<8.0  # Optional: for unit testing
