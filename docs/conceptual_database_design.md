@@ -117,7 +117,7 @@ I have assumed that:
 
 ## EER Diagram
 
-[Click here to view the EER Diagram](https://miro.com/app/board/uXjVP9nkjPQ=/?share_link_id=689293927797)
+![alt text](<Screenshot 2024-11-28 at 9.33.23 PM.png>)
 
 ## Enterprise Rules
 - A **Staff** belongs to exactly one **Team**.
